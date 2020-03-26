@@ -1,0 +1,81 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="CallHierarchy" />
+  <action id="ChangesView.Diff" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.ColumnsList" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.SqlGenerator" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="FindUsagesInFile" />
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="GoCallHierarchyPopupMenu.BaseOnThisDeclaration" />
+  <action id="GoGenerateFileAction" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="NextDiff" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShowSettingsAndFindUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="StepInto" />
+  <action id="ToggleBookmarkWithMnemonic" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UML.ShowStructure" />
+  <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
