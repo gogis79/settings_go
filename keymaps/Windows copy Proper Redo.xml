@@ -19,6 +19,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnsList" />
+  <action id="ContextHelp" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.SqlGenerator" />
   <action id="Diff.NextChange" />
@@ -60,6 +61,10 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="JumpToLastWindow" />
   <action id="NextDiff" />
