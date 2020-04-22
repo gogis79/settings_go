@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="D:/gogis/projects/proto" />
+      </list>
+    </option>
+  </component>
+</application>
