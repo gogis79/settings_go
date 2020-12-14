@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="GoLand" shouldLog="false" />
   </component>
 </application>
